@@ -1,4 +1,4 @@
-# Ultrasonic-
+# Three moves Robot Arm
 // C++ code
 //
 #include <Servo.h>
